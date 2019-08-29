@@ -1,0 +1,128 @@
+﻿{
+	"feed": {
+		"id": "tag:blogger.com,1999:blog-2677249248486733762",
+		"updated": "2019-08-29T06:47:32.250-07:00",
+		"title": {
+			"_type": "text",
+			"__text": "La ciencia con conciencia"
+		},
+		"subtitle": {
+			"_type": "html"
+		},
+		"link": [
+			{
+				"_rel": "http://schemas.google.com/g/2005#feed",
+				"_type": "application/atom+xml",
+				"_href": "https://cienciaconconciencia-global.blogspot.com/feeds/posts/default"
+			},
+			{
+				"_rel": "self",
+				"_type": "application/atom+xml",
+				"_href": "https://www.blogger.com/feeds/2677249248486733762/posts/default"
+			},
+			{
+				"_rel": "alternate",
+				"_type": "text/html",
+				"_href": "https://cienciaconconciencia-global.blogspot.com/"
+			},
+			{
+				"_rel": "hub",
+				"_href": "http://pubsubhubbub.appspot.com/"
+			}
+		],
+		"author": {
+			"name": "Joseph Manuel",
+			"uri": "http://www.blogger.com/profile/16646631918089713127",
+			"email": "noreply@blogger.com",
+			"image": {
+				"_rel": "http://schemas.google.com/g/2005#thumbnail",
+				"_width": "16",
+				"_height": "16",
+				"_src": "https://img1.blogblog.com/img/b16-rounded.gif",
+				"__prefix": "gd"
+			}
+		},
+		"generator": {
+			"_version": "7.00",
+			"_uri": "http://www.blogger.com",
+			"__text": "Blogger"
+		},
+		"totalResults": {
+			"__prefix": "openSearch",
+			"__text": "1"
+		},
+		"startIndex": {
+			"__prefix": "openSearch",
+			"__text": "1"
+		},
+		"itemsPerPage": {
+			"__prefix": "openSearch",
+			"__text": "25"
+		},
+		"entry": {
+			"id": "tag:blogger.com,1999:blog-2677249248486733762.post-6854189727929656676",
+			"published": "2019-08-29T06:47:00.000-07:00",
+			"updated": "2019-08-29T06:47:01.296-07:00",
+			"title": {
+				"_type": "text",
+				"__text": "Este es el comienzo"
+			},
+			"content": {
+				"_type": "html",
+				"__text": "La ciencia con conciencia es una serie de contenido informático que ofrece muchas cosas acerca de la informática científica. Quedate y disfruta."
+			},
+			"link": [
+				{
+					"_rel": "replies",
+					"_type": "application/atom+xml",
+					"_href": "https://cienciaconconciencia-global.blogspot.com/feeds/6854189727929656676/comments/default",
+					"_title": "Post Comments"
+				},
+				{
+					"_rel": "replies",
+					"_type": "text/html",
+					"_href": "https://cienciaconconciencia-global.blogspot.com/2019/08/este-es-el-comienzo.html#comment-form",
+					"_title": "0 Comments"
+				},
+				{
+					"_rel": "edit",
+					"_type": "application/atom+xml",
+					"_href": "https://www.blogger.com/feeds/2677249248486733762/posts/default/6854189727929656676"
+				},
+				{
+					"_rel": "self",
+					"_type": "application/atom+xml",
+					"_href": "https://www.blogger.com/feeds/2677249248486733762/posts/default/6854189727929656676"
+				},
+				{
+					"_rel": "alternate",
+					"_type": "text/html",
+					"_href": "https://cienciaconconciencia-global.blogspot.com/2019/08/este-es-el-comienzo.html",
+					"_title": "Este es el comienzo"
+				}
+			],
+			"author": {
+				"name": "Joseph Manuel",
+				"uri": "http://www.blogger.com/profile/16646631918089713127",
+				"email": "noreply@blogger.com",
+				"image": {
+					"_rel": "http://schemas.google.com/g/2005#thumbnail",
+					"_width": "16",
+					"_height": "16",
+					"_src": "https://img1.blogblog.com/img/b16-rounded.gif",
+					"__prefix": "gd"
+				}
+			},
+			"total": {
+				"__prefix": "thr",
+				"__text": "0"
+			}
+		},
+		"_xmlns": "http://www.w3.org/2005/Atom",
+		"_xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+		"_xmlns:blogger": "http://schemas.google.com/blogger/2008",
+		"_xmlns:georss": "http://www.georss.org/georss",
+		"_xmlns:gd": "http://schemas.google.com/g/2005",
+		"_xmlns:thr": "http://purl.org/syndication/thread/1.0"
+	}
+}
